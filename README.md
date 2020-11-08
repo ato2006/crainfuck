@@ -1,2 +1,2 @@
 # crainfuck
-Generates AST from Brainfuck file
+Generates AST (Abstract Syntax Tree) from Brainfuck file
